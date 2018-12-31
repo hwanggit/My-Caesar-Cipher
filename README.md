@@ -1,2 +1,3 @@
 # CaesarCipher.java
-Contains implementable java code for common Caesar Cipher. Useful for encoding information! Contains useful test texts!
+Implemented a Caesar Cipher in JAVA for encryption (Testers Included)
+CREATED FOR UCSD CSE 8A 2017
